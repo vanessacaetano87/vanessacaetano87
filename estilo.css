@@ -1,0 +1,15 @@
+@import url('https://fonts.googleapis.com/css?family=Francois+One|Lato');
+    
+corpo{
+	font-family: 'fantasy;';
+	imagem do fundo: gradiente linear(90 graus, rgba (110,222,255,1) 4 % , rgba (7,193,231,1) 40 % , rgba (0,125,189,1) 85 % );
+}
+
+
+btn-remover-item{
+	preenchimento :12 px 12 px 12 px 12 px;
+	raio borda : 100px;
+}
+
+
+

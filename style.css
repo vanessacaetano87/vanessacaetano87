@@ -1,0 +1,89 @@
+@import url('https://fonts.googleapis.com/css?family=Francois+One|Lato');
+
+
+corpo{
+	margem: 0px;
+	borda: 0px;
+	font-family: fantasy;
+}
+
+  seção. topo {
+  	cor : rgb( 0,0,0,);
+  	cor do fundo: rgba (0,152,189,1);
+  	preenchimento: 20px 50px ;_  _
+  	box-sizing: border-box;
+  }
+
+
+
+seção. topo h1{
+	text-transform: maiúscula;
+	tamanho da fonte: xx-large;
+	peso da fonte : mais leve;
+	margem inferior: 0px;
+}
+seção. topo h2{
+	peso da fonte : mais leve;
+}
+
+seção. top p span{
+	peso da fonte: negrito;
+}
+seção. conteudo{
+	preenchimento: 20px 50px;
+	box-sizing:border-box ;
+}
+
+seção. conteudo h3{
+		text-transform:maiúscula ;
+		peso da fonte : negrito;
+	}
+
+principal . principal  h2 {
+    cor :  rgb ( 23 ,  23 ,  23 );
+    text-transform : maiúsculas;
+    font-family :  'François One' ;
+    largura : 100 % ;
+    margem inferior :  0 px ;
+    border-bottom :  RGB sólido de 2 px ( 23 , 23 , 23 );  
+
+principal.lateral {
+	largura: 40 %;
+	min-altura: 100 vh ;
+	cor de fundo: rgb ()
+}
+
+
+
+
+
+
+
+
+seção . conteudo . lista-tópicos{
+	estilo de lista: nenhum;
+	preenchimento: 0px; _
+}
+
+principal.principal. lista-tópicos li h4 {
+	cor: rgb (75,178,219);
+	peso da fonte: mais negrito;
+	margem inferior: 0 px;
+}
+
+seção . conteudo div {
+	border-left: 1px rgb sólido (45,45,45);
+	padding-left: 10px;
+	margem inferior: 10px;
+}
+seção . conteudo div h4 , p {
+	margem : 0px;_
+}
+
+@página{
+	margem: 0px; _
+}
+
+
+
+
